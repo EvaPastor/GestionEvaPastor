@@ -78,7 +78,7 @@
 		top:38px; 
 		left:-9999px; 
 		z-index:10; 
-		background:url(https://global-transaction-banking.googlecode.com/svn/img/fadeAzul.png);
+		background:url(https://global-transaction-banking.googlecode.com/svn/img/fade_AFCFF0.png);
 	}
 	#dropline li ul.floatRight li {
 		float:right;
