@@ -25,7 +25,7 @@
 		position:relative; 
 		font-size:12px; 
 		height:38px; 
-		background:url(https://global-transaction-banking.googlecode.com/svn/img/fondoaltovolumen.png) no-repeat;
+		background:url(https://global-transaction-banking.googlecode.com/svn/img/fondoMenu.png) no-repeat;
 	}
 	#dropline, 
 	#dropline ul {
@@ -259,10 +259,10 @@
 	<div id="menu">
 		<ul id="dropline">
 			<li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/global-transaction-banking/" target="_parent" onclick="mark"></a></li>
-			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/informacion" target="_parent">Informaci髇</a>
+			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/informacion" target="_parent">Informaci贸n</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducci髇</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentaci髇 General</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducci贸n</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentaci贸n General</a></li>
 				</ul>
 			</li>   
          
@@ -277,10 +277,10 @@
 				</ul>
 			</li>     
 			
-			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/gestion" target="_parent">Gesti髇</a>
+			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/gestion" target="_parent">Gesti贸n</a>
 				<ul style="left: -99999px; display: none;" class="sub">
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/avance" target="_parent">Avance General</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Planificaci髇 General</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Planificaci贸n General</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Seguimiento Iniciativas/Proyectos</a></li>
 				</ul>
 			</li>    
@@ -298,7 +298,7 @@
 		</ul>
 	</div>
 
-	<!-- Elemento de men煤 set visited -->
+	<!-- Elemento de men脙潞 set visited -->
 	<script type="text/javascript">
 	gadgets.util.registerOnLoadHandler(datospagina);
 	function datospagina()
