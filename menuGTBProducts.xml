@@ -259,10 +259,10 @@
 	<div id="menu">
 		<ul id="dropline">
 			<li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/global-transaction-banking/" target="_parent" onclick="mark"></a></li>
-			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/informacion" target="_parent">Información2</a>
+			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/informacion" target="_parent">Información</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción2</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación General2</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación General</a></li>
 				</ul>
 			</li>   
          
@@ -271,7 +271,6 @@
          
       <li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/miembros" target="_parent">Miembros Grupo</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/staffing" target="_parent">Staffing</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_eurasia" target="_parent">Contactos Eurasia</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_latam" target="_parent">Contactos Latam</a></li>
 				</ul>
@@ -279,17 +278,26 @@
 			
 			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/gestion" target="_parent">Gestión</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/avance" target="_parent">Avance General</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Planificación General</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Seguimiento Iniciativas/Proyectos</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Seguimiento</a></li>
 				</ul>
 			</li>    
 			
 
-			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/iniciativas" target="_parent">Iniciativas</a>
+			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebas" target="_parent">Pruebas</a>
+				<ul style="left: -99999px; display: none;" class="sub">
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Desarrollo</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Integrado</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Producción</a></li>
+				</ul>
 			</li>    
 
-			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/proyectos" target="_parent">Proyectos</a>     
+			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/incidencias" target="_parent">Incidencias</a>     
+				<ul style="left: -99999px; display: none;" class="sub">
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incDesarrollo" target="_parent">Desarrollo</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incIntegrado" target="_parent">Integrado</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incProduccion" target="_parent">Producción</a></li>
+				</ul>
 			</li> 		
 
 			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/enlaces" target="_parent">Enlaces</a>     
