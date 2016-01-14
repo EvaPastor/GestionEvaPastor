@@ -25,7 +25,7 @@
 		position:relative; 
 		font-size:12px; 
 		height:38px; 
-		background:url(https://drive.google.com/open?id=0Bx9guyWlPycjdk1ielotbDB3T28) no-repeat;
+		background:url(https://cloud.githubusercontent.com/assets/16671310/12323641/720f452a-babd-11e5-92d7-15e5e63fd770.png) no-repeat;
 	}
 	#dropline, 
 	#dropline ul {
