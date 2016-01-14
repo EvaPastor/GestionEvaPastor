@@ -25,7 +25,7 @@
 		position:relative; 
 		font-size:12px; 
 		height:38px; 
-		background:url(https://global-transaction-banking.googlecode.com/svn/img/fondoMenuPRUEBA.png) no-repeat;
+		background:url(https://cloud.githubusercontent.com/assets/16671310/12323641/720f452a-babd-11e5-92d7-15e5e63fd770.png) no-repeat;
 	}
 	#dropline, 
 	#dropline ul {
