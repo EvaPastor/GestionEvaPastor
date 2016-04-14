@@ -280,6 +280,8 @@
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Planificación General</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Seguimiento Negocio</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimientointerno" target="_parent">Seguimiento Interno</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimientoagile" target="_parent">Seguimiento Agile</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/vacaciones" target="_parent">Vacaciones</a></li>
 				</ul>
 			</li>    
 			
@@ -298,16 +300,14 @@
 
 			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebas" target="_parent">Pruebas</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">España</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Portugal</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">México</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Colombia</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Perú</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Chile</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Argentina</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Venezuela</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Uruguay</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Turquia</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasco" target="_parent">Colombia</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebascl" target="_parent">Chile</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebaspe" target="_parent">Perú</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasmx" target="_parent">México</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasar" target="_parent">Argentina</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasve" target="_parent">Venezuela</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebases" target="_parent">España</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebaspt" target="_parent">Portugal</a></li>
 				</ul>
 			</li>    
 
