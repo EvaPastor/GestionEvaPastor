@@ -116,7 +116,7 @@
 	}		
 </style>
 
-<script src="https://global-transaction-banking.googlecode.com/svn/js/jquery-1.js" type="text/javascript"></script>
+<script src="https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/jquery-1.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 
