@@ -67,7 +67,7 @@
 	}
 	#dropline li a.down { 
 		color:#fff; 
-		background:url(https://global-transaction-banking.googlecode.com/svn/img/down.gif) no-repeat right center;
+		background:url(https://cloud.githubusercontent.com/assets/16671310/15357499/9446a56c-1cff-11e6-830e-fd37ced330af.gif) no-repeat right center;
 	}
 	#dropline li ul li a.down {
 		font-size:14px; 
@@ -78,7 +78,7 @@
 		top:38px; 
 		left:-9999px; 
 		z-index:10; 
-		background:url(https://global-transaction-banking.googlecode.com/svn/img/fade_E6EFF7.png);
+		background:url(https://cloud.githubusercontent.com/assets/16671310/15357552/dc9018c6-1cff-11e6-91ce-9bfed7d43bdc.png);
 	}
 	#dropline li ul.floatRight li {
 		float:right;
@@ -269,9 +269,9 @@
 			</li>
          
          <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/global-transaction-banking/" target="_parent" onclick="mark"></a></li>
-			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción5</a>
+			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción6</a>
 				<ul style="left: -99999px; display: none;" class="down">
-				<a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación5</a>
+				<a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación6</a>
 				</ul>
 			</li>   
       <li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/miembros" target="_parent">Miembros</a>
