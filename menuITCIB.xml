@@ -142,7 +142,7 @@
 		text-transform: capitalize;		                                                                                                                                                               
 	}		                                                                                                                                                                                           
 </style>                                                                                                                                                                                         
-<script src="https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/jquery-1.js" type="text/javascript"></script>                                                                                   
+<script src="https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/jquery-2.js" type="text/javascript"></script>                                                                                   
 <script type="text/javascript">                                                                                                                                                                  
 	$(document).ready(function()                                                                                                                                                                   
 	{                                                                                                                                                                                              
@@ -291,7 +291,7 @@
 			<li class="top"><a id="documentacion" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/documentacion" target="_parent">Documentación</a>                             
 		                                                                                                                                                                                             
 			</li>                                                                                                                                                                                      
-			<li class="top"><a id="proyectos" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyectos-clientes" target="_parent">Proyectos</a>                                     
+			<li class="top"><a id="proyectos" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyectos-clientes" target="_parent">Miembros</a>                                     
 			<ul style="left:-99999px; display: none;" class="sub">                                                                                                                                     
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
