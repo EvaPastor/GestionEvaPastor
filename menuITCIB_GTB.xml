@@ -278,31 +278,31 @@
 	<div id="menu">                                                                                                                                                                                
 		<ul id="dropline">                                                                                                                                                                           
 			<li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/portal-gcs/home/" target="_parent" onclick="mark"></a></li>                   
-			<li class="top"><a id="implantaciones" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/registro" target="_parent">Implantaciones</a>                                     
+			<li class="top"><a id="implantaciones" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/registro" target="_parent">Introducción</a>                                     
 			<ul style="left:-99999px; display: none;" class="sub">                                                                                                                                     
 					                                                                                                                                                                                       
 					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/registro" target="_parent">Registro</a></li>                                                                               
-					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/implantaciones-consulta" target="_parent">Consulta</a></li>                                                                
+					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/implantaciones-consulta" target="_parent">Documentación</a></li>                                                                
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
 			</ul>                                                                                                                                                                                      
 			</li>                                                                                                                                                                                      
-			<li class="top"><a id="documentacion" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/documentacion" target="_parent">Documentación</a>                             
+			<li class="top"><a id="documentacion" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/documentacion" target="_parent">Miembros</a>                             
 		                                                                                                                                                                                             
 			</li>                                                                                                                                                                                      
 			<li class="top"><a id="proyectos" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyectos-clientes" target="_parent">Proyectos</a>                                     
 			<ul style="left:-99999px; display: none;" class="sub">                                                                                                                                     
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
-					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyecto" target="_parent"> Proyectos</a></li>                                                                             
+					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyecto" target="_parent"> Gestión</a></li>                                                                             
 					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyectos-clientes" target="_parent">Proyectos cliente</a></li>                                                            
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
 			</ul></li>                                                                                                                                                                                 
-			<li class="top"><a id="customersolutions" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/calendarios" target="_parent">Calendarios de implantaciones</a>           
+			<li class="top"><a id="customersolutions" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/calendarios" target="_parent">Info Países</a>           
 			<ul style="left:-99999px; display: none;" class="sub">                                                                                                                                     
 					                                                                                                                                                                                       
 					<!--<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/home/globalcustomersolutions" target="_parent">Equipos</a></li>                                                        
@@ -311,10 +311,15 @@
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
 			</ul></li>                                                                                                                                                                                 
-			<li class="top"><a id="oneformat" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/oneformat" target="_parent">OneFormat Clientes</a>                                
+			<li class="top"><a id="oneformat" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/oneformat" target="_parent">Pruebas</a>                                
 			</li>                                                                                                                                                                                      
-			<li class="top"><a id="sepa" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/sepa" target="_parent">Sepa</a>                                                        
+			<li class="top"><a id="sepa" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/sepa" target="_parent">Incidencias</a>                                                        
 			</li>                                                                                                                                                                                      
+			
+			</li>                                                                                                                                                                                      
+			<li class="top"><a id="sepa" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/sepa" target="_parent">Enlaces</a>                                                        
+			</li>                                                                                                                                                                                      
+			
 			                                                                                                                                                                                           
 		</ul>                                                                                                                                                                                        
 	</div>                                                                                                                                                                                         
