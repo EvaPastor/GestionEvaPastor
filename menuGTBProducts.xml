@@ -67,7 +67,10 @@
 	}
 	#dropline li a.down { 
 		color:#fff; 
-		background:url(https://cloud.githubusercontent.com/assets/16671310/15357499/9446a56c-1cff-11e6-830e-fd37ced330af.gif) no-repeat right center;
+		/*background:url(https://cloud.githubusercontent.com/assets/16671310/15357499/9446a56c-1cff-11e6-830e-fd37ced330af.gif) no-repeat right center;*/
+		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/down.gif) no-repeat right center;
+		
+		
 	}
 	#dropline li ul li a.down {
 		font-size:14px; 
