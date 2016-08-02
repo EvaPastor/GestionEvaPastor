@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>                                                                                                                                                           
 <Module>                                                                                                                                                                                         
-<ModulePrefs title="menu portal ITCIB EVA PASTOR PRUEBA" >                                                                                                                                                   
+<ModulePrefs title="menu portal ITCIB EVA PASTOR GTB" >                                                                                                                                                   
 	<Require feature="dynamic-height"/>                                                                                                                                                            
 	<Require feature="setprefs" />                                                                                                                                                                 
 </ModulePrefs>                                                                                                                                                                                   
@@ -142,7 +142,7 @@
 		text-transform: capitalize;		                                                                                                                                                               
 	}		                                                                                                                                                                                           
 </style>                                                                                                                                                                                         
-<script src="https://rawgit.com/TipplerPhysics/bbvagcs/master/js/jquery-1.js" type="text/javascript"></script>                                                                                   
+<script src="https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/jquery-1.js" type="text/javascript"></script>                                                                                   
 <script type="text/javascript">                                                                                                                                                                  
 	$(document).ready(function()                                                                                                                                                                   
 	{                                                                                                                                                                                              
