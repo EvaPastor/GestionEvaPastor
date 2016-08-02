@@ -310,15 +310,15 @@
 					                                                                                                                                                                                       
 					                                                                                                                                                                                       
 			</ul></li>                                                                                                                                                                                 
-			<li class="top"><a id="oneformat" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/oneformat" target="_parent">Gestión</a>                                
+			<li class="top"><a id="oneformat" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/oneformat" target="_parent">Gestión2</a>                                
 			</li>                                                                                                                                                                                      
 			<li class="top"><a id="sepa" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/sepa" target="_parent">Sepa</a>                                                        
 			</li>                                                                                                                                                                                      
 			                                                                                                                                                                                           
 		</ul>                                                                                                                                                                                        
 	</div>                                                                                                                                                                                         
-	<!-- breadcrumbs-->                                                                                                                                                                            
-	<div id="title-crumbs">breadcrumbs</div>                                                                                                                                                       
+	<!-- breadcrumbs2-->                                                                                                                                                                            
+	<div id="title-crumbs">breadcrumbs3</div>                                                                                                                                                       
 	<!-- Elemento de men??t visited -->                                                                                                                                                            
 	<script type="text/javascript">                                                                                                                                                                
 	gadgets.util.registerOnLoadHandler(datospagina);                                                                                                                                               
@@ -352,7 +352,7 @@
 			                                                                                                                                                                                           
 	}                                                                                                                                                                                              
 	</script>                                                                                                                                                                                      
-<!--Fin of the Breadcrumbs-->                                                                                                                                                                    
+<!--Fin of the Breadcrumbs4-->                                                                                                                                                                    
 </div>                                                                                                                                                                                           
 <!-- end of content -->                                                                                                                                                                          
 ]]></Content>                                                                                                                                                                                    
