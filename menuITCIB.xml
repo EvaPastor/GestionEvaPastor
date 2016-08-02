@@ -53,7 +53,7 @@
 		position:relative;                                                                                                                                                                           
 		font-size:12px;                                                                                                                                                                              
 		height:38px;                                                                                                                                                                                 
-		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/img/fondomenu.png) no-repeat;                                                                           
+		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/fondoMenu.png) no-repeat;                                                                           
 	}                                                                                                                                                                                              
 	#dropline,                                                                                                                                                                                     
 	#dropline ul {                                                                                                                                                                                 
@@ -95,7 +95,7 @@
 	}                                                                                                                                                                                              
 	#dropline li a.down {                                                                                                                                                                          
 		color:#fff;                                                                                                                                                                                  
-		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/img/down.gif) no-repeat right center;                                                                         
+		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/down.gif) no-repeat right center;                                                                         
 	}                                                                                                                                                                                              
 	#dropline li ul li a.down {                                                                                                                                                                    
 		font-size:14px;                                                                                                                                                                              
@@ -106,7 +106,7 @@
 		top:38px;                                                                                                                                                                                    
 		left:-9999px;                                                                                                                                                                                
 		z-index:10;                                                                                                                                                                                  
-		background:urlhttps://raw.githubusercontent.com/EvaPastor/global-transaction-banking/master/img/fade.png);                                                                                                 
+		background:urlhttps://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/fade.png);                                                                                                 
 	}                                                                                                                                                                                              
 	#dropline li ul.floatRight li {                                                                                                                                                                
 		float:right;                                                                                                                                                                                 
