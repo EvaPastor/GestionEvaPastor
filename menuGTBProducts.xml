@@ -141,10 +141,12 @@
 					$(this).children("a:eq(0)").css("color","#000");
 				}
 
+				/* EVA
+				
 				if (getCurrent = 1) 
 				{
 					$(this).parent().children("li.current:eq(0)").children("ul").hide();
-				}
+				}*/
 
 				$(this).children("ul:eq(0)").css("left", "0px").show();
 			}
@@ -272,7 +274,7 @@
 			</li>
          
          <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/global-transaction-banking/" target="_parent" onclick="mark"></a></li>
-			<li class="sites-header-nav-dropdown-menuitem unselected"><a id="registro" class="sites-header-nav-dropdown-menuitem unselected" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción10</a>
+			<li class="sites-header-nav-dropdown-menuitem unselected"><a id="registro" class="sites-header-nav-dropdown-menuitem unselected" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción11</a>
 				<ul style="left: -99999px; display: none;" class="sites-header-nav-dropdown-menuitem unselected">
 				<a id="registro" class="sites-header-nav-dropdown-menuitem unselected" href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación10</a>
 				</ul>
