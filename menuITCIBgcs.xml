@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="menu portal ITCIB BBVA3" >
+<ModulePrefs title="menu Eva Pastor ITCIB GTB" >
 	<Require feature="dynamic-height"/>   
 	<Require feature="setprefs" />  
 </ModulePrefs>  
@@ -289,7 +289,7 @@
 	<div id="menu">
 		<ul id="dropline">
 			<li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/portal-gcs/home/" target="_parent" onclick="mark"></a></li>
-			<li class="top"><a id="implantaciones" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción</a>
+			<li class="top"><a id="introduccion" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción</a>
 			<ul style="left:-99999px; display: none;" class="sub">
 					
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación</a></li>
@@ -297,14 +297,14 @@
 			</ul>
 			</li>
 			
-			 <li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/miembros" target="_parent">Miembros</a>
+			 <li class="top"><a id="miembros" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/miembros" target="_parent">Miembros</a>
 				<ul style="left: -99999px; display: none;" class="sub">
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_eurasia" target="_parent">Contactos Eurasia</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_latam" target="_parent">Contactos Latam</a></li>
 				</ul>
 			</li>     
 			
-			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/gestion" target="_parent">Gestión</a>
+			<li class="top"><a id="gestion" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/gestion" target="_parent">Gestión</a>
 				<ul style="left: -99999px; display: none;" class="sub">
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Planificación General</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Seguimiento Negocio</a></li>
@@ -314,7 +314,7 @@
 				</ul>
 			</li>    
 			
-			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/infopaises" target="_parent">Info Países</a>
+			<li class="top"><a id="paises" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/infopaises" target="_parent">Info Países</a>
 				<ul style="left: -99999px; display: none;" class="sub">
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/catalogo" target="_parent">Catálogo servicios</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/horarios" target="_parent">Horarios de envío</a></li>
@@ -326,7 +326,7 @@
 				</ul>
 			</li> 
 			
-			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebas" target="_parent">Pruebas</a>
+			<li class="top"><a id="pruebas" href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebas" target="_parent">Pruebas</a>
 				<ul style="left: -99999px; display: none;" class="sub">
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasco" target="_parent">Colombia</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebascl" target="_parent">Chile</a></li>
@@ -339,7 +339,7 @@
 				</ul>
 			</li>    
 			
-			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/incidencias" target="_parent">Incidencias</a>     
+			<li class="top"><a id="incidencias" href="https://sites.google.com/a/bbva.com/global-transaction-banking/incidencias" target="_parent">Incidencias</a>     
 				<ul style="left: -99999px; display: none;" class="sub">
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incDesarrollo" target="_parent">Desarrollo</a></li>
 					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incIntegrado" target="_parent">Integrado</a></li>
@@ -347,7 +347,7 @@
 				</ul>
 			</li> 	
 			
-			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/enlaces" target="_parent">Enlaces</a>     
+			<li class="top"><a id="enlaces" href="https://sites.google.com/a/bbva.com/global-transaction-banking/enlaces" target="_parent">Enlaces</a>     
 			</li> 
 			
 		
@@ -364,31 +364,34 @@
 	function datospagina()
 	{
 		var parametros = gadgets.util.getUrlParameters()["parent"];	
-		if (parametros.indexOf("implantaciones")!=-1)
+		if (parametros.indexOf("introduccion")!=-1)
 		{
-			document.getElementById("implantaciones").style.backgroundColor = "#2586D7";
+			document.getElementById("introduccion").style.backgroundColor = "#2586D7";
 		}
-		if (parametros.indexOf("documentacion")!=-1)
+		if (parametros.indexOf("miembros")!=-1)
 		{
-			document.getElementById("documentacion").style.backgroundColor = "#2586d7";
+			document.getElementById("miembros").style.backgroundColor = "#2586d7";
 		}
-		if (parametros.indexOf("proyectos")!=-1)
+		if (parametros.indexOf("gestion")!=-1)
 		{
-			document.getElementById("proyectos").style.backgroundColor = "#2586d7";
+			document.getElementById("gestion").style.backgroundColor = "#2586d7";
 		}
-		if (parametros.indexOf("customersolutions")!=-1)
+		if (parametros.indexOf("paises")!=-1)
 		{
-			document.getElementById("customersolutions").style.backgroundColor = "#2586d7";
+			document.getElementById("paises").style.backgroundColor = "#2586d7";
 		}
-		if (parametros.indexOf("oneformat")!=-1)
+		if (parametros.indexOf("pruebas")!=-1)
 		{
-			document.getElementById("oneformat").style.backgroundColor = "#2586d7";
+			document.getElementById("pruebas").style.backgroundColor = "#2586d7";
 		}
-		if (parametros.indexOf("sepa")!=-1)
+		if (parametros.indexOf("incidencias")!=-1)
 		{
-			document.getElementById("sepa").style.backgroundColor = "#2586d7";
+			document.getElementById("incidencias").style.backgroundColor = "#2586d7";
 		}
-			
+		if (parametros.indexOf("enlaces")!=-1)
+		{
+			document.getElementById("enlaces").style.backgroundColor = "#2586d7";
+		}	
 	}
 	</script>
 
