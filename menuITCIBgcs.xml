@@ -55,7 +55,7 @@
 		position:relative; 
 		font-size:12px; 
 		height:38px; 
-		background:url(https://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/img/fondomenuhome38.png) no-repeat;
+		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/fondoMenu.png) no-repeat;
 	}
 	#dropline, 
 	#dropline ul {
@@ -97,7 +97,7 @@
 	}
 	#dropline li a.down { 
 		color:#fff; 
-		background:url(https://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/img/down.gif) no-repeat right center;
+		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/down.gif) no-repeat right center;
 	}
 	#dropline li ul li a.down {
 		font-size:14px; 
@@ -108,7 +108,7 @@
 		top:38px; 
 		left:-9999px; 
 		z-index:10; 
-		background:urlhttps://raw.githubusercontent.com/TipplerPhysics/bbvagcs/master/img/fade.png);
+		background:urlhttps://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/fade.png);
 	}
 	#dropline li ul.floatRight li {
 		float:right;
@@ -289,44 +289,68 @@
 	<div id="menu">
 		<ul id="dropline">
 			<li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/portal-gcs/home/" target="_parent" onclick="mark"></a></li>
-			<li class="top"><a id="implantaciones" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/registro" target="_parent">PRUEBA GCS</a>
+			<li class="top"><a id="implantaciones" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Introducción</a>
 			<ul style="left:-99999px; display: none;" class="sub">
 					
-					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/registro" target="_parent">Registro</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/implantaciones-consulta" target="_parent">Consulta</a></li>
-					
-					
-					
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación</a></li>
 					
 			</ul>
 			</li>
-			<li class="top"><a id="documentacion" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/documentacion" target="_parent">Documentación3</a>
+			
+			 <li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/miembros" target="_parent">Miembros</a>
+				<ul style="left: -99999px; display: none;" class="sub">
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_eurasia" target="_parent">Contactos Eurasia</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_latam" target="_parent">Contactos Latam</a></li>
+				</ul>
+			</li>     
+			
+			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/gestion" target="_parent">Gestión</a>
+				<ul style="left: -99999px; display: none;" class="sub">
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Planificación General</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Seguimiento Negocio</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimientointerno" target="_parent">Seguimiento Interno</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimientoagile" target="_parent">Seguimiento Agile</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/vacaciones" target="_parent">Vacaciones</a></li>
+				</ul>
+			</li>    
+			
+			<li class="top"><a id="registro" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/infopaises" target="_parent">Info Países</a>
+				<ul style="left: -99999px; display: none;" class="sub">
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/catalogo" target="_parent">Catálogo servicios</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/horarios" target="_parent">Horarios de envío</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/entornos" target="_parent">Entornos locales</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/layout" target="_parent">Layout</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/nomenclaturas" target="_parent">Nomenclaturas Ficheros</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/comunicaciones" target="_parent">Datos comunicaciones</a></li>
+					
+				</ul>
+			</li> 
+			
+			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebas" target="_parent">Pruebas</a>
+				<ul style="left: -99999px; display: none;" class="sub">
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasco" target="_parent">Colombia</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebascl" target="_parent">Chile</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebaspe" target="_parent">Perú</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasmx" target="_parent">México</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasar" target="_parent">Argentina</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasve" target="_parent">Venezuela</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebases" target="_parent">España</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebaspt" target="_parent">Portugal</a></li>
+				</ul>
+			</li>    
+			
+			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/incidencias" target="_parent">Incidencias</a>     
+				<ul style="left: -99999px; display: none;" class="sub">
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incDesarrollo" target="_parent">Desarrollo</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incIntegrado" target="_parent">Integrado</a></li>
+					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incProduccion" target="_parent">Producción</a></li>
+				</ul>
+			</li> 	
+			
+			<li class="top"><a id="registro" href="https://sites.google.com/a/bbva.com/global-transaction-banking/enlaces" target="_parent">Enlaces</a>     
+			</li> 
+			
 		
-			</li>
-			<li class="top"><a id="proyectos" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyectos-clientes" target="_parent">Proyectos</a>
-			<ul style="left:-99999px; display: none;" class="sub">
-					
-					
-					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyecto" target="_parent"> Proyectos</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyectos-clientes" target="_parent">Proyectos cliente</a></li>
-					
-					
-					
-			</ul></li>
-			<li class="top"><a id="customersolutions" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/calendarios" target="_parent">Calendarios de implantaciones</a>
-			<ul style="left:-99999px; display: none;" class="sub">
-					
-					<!--<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/home/globalcustomersolutions" target="_parent">Equipos</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/it-cib-gtb/home/lineas-trabajo" target="_parent">Lineas de trabajo </a></li>-->
-
-					
-					
-					
-			</ul></li>
-			<li class="top"><a id="oneformat" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/oneformat" target="_parent">OneFormat Clientes</a>
-			</li>
-			<li class="top"><a id="sepa" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/sepa" target="_parent">Sepa</a>
-			</li>
 			
 		</ul>
 	</div>
