@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs title="menu portal ITCIB BBVA2" >
+<ModulePrefs title="menu portal ITCIB BBVA3" >
 	<Require feature="dynamic-height"/>   
 	<Require feature="setprefs" />  
 </ModulePrefs>  
@@ -300,7 +300,7 @@
 					
 			</ul>
 			</li>
-			<li class="top"><a id="documentacion" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/documentacion" target="_parent">Documentación</a>
+			<li class="top"><a id="documentacion" class="principal" href="https://sites.google.com/a/bbva.com/it-cib-gtb/documentacion" target="_parent">Documentación3</a>
 		
 			</li>
 			<li class="top"><a id="proyectos" class="down" href="https://sites.google.com/a/bbva.com/it-cib-gtb/proyectos-clientes" target="_parent">Proyectos</a>
