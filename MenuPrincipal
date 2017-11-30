@@ -280,62 +280,23 @@
 			<li class="top"><a id="contactos" class="down" href="https://sites.google.com/site/gestionevapastor/contactos" target="_parent">Contactos</a>
 			</li>
 			
-			 <li class="top"><a id="miembros" class="down" href="https://sites.google.com/site/gestionevapastor/miembros" target="_parent">Miembros</a>
+			 <li class="top"><a id="enlaces" class="down" href="https://sites.google.com/site/gestionevapastor/enlaces" target="_parent">Enlaces</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/site/gestionevapastor/contactos_eurasia" target="_parent">Contactos Eurasia</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/contactos_latam" target="_parent">Contactos Latam</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/personal" target="_parent">Personal</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/trabajo" target="_parent">Trabajo</a></li>
 				</ul>
 			</li>     
 			
-			<li class="top"><a id="gestion" class="down" href="https://sites.google.com/site/gestionevapastor/gestion" target="_parent">Gestión</a>
+			<li class="top"><a id="datos" class="down" href="https://sites.google.com/site/gestionevapastor/datos" target="_parent">Datos Interes</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/site/gestionevapastor/planificacion" target="_parent">Planificación General</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/seguimiento" target="_parent">Seguimiento Negocio</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/seguimientointerno" target="_parent">Seguimiento Interno</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/seguimientoagile" target="_parent">Seguimiento Agile</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/seguimientoans" target="_parent">Seguimiento ANS</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/incurridos" target="_parent">Incurridos/Vacaciones</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/datoswebs" target="_parent">Datos Webs</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/notas" target="_parent">Notas</a></li>
 				</ul>
 			</li>    
 			
-			<li class="top"><a id="paises" class="down" href="https://sites.google.com/site/gestionevapastor/infopaises" target="_parent">Info Países</a>
-				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/site/gestionevapastor/catalogo" target="_parent">Catálogo servicios</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/horarios" target="_parent">Horarios de envío</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/entornos" target="_parent">Entornos locales</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/layout" target="_parent">Layout</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/nomenclaturas" target="_parent">Nomenclaturas Ficheros</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/comunicaciones" target="_parent">Datos comunicaciones</a></li>
-					
-				</ul>
+			<li class="top"><a id="paises" class="down" href="https://sites.google.com/site/gestionevapastor/infopaises" target="_parent">Calendario</a>
 			</li> 
 			
-			<li class="top"><a id="pruebas" href="https://sites.google.com/site/gestionevapastor/pruebas" target="_parent">Pruebas</a>
-				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasco" target="_parent">Colombia</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebascl" target="_parent">Chile</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebaspe" target="_parent">Perú</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasmx" target="_parent">México</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasar" target="_parent">Argentina</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasve" target="_parent">Venezuela</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebases" target="_parent">España</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/pruebaspt" target="_parent">Portugal</a></li>
-				</ul>
-			</li>    
-			
-			<li class="top"><a id="incidencias" href="https://sites.google.com/site/gestionevapastor/incidencias" target="_parent">Incidencias</a>     
-				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/site/gestionevapastor/incintegrado" target="_parent">Integrado</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/incproduccion" target="_parent">Producción</a></li>
-				</ul>
-			</li> 	
-			
-			<li class="top"><a id="enlaces" href="https://sites.google.com/site/gestionevapastor/enlaces" target="_parent">Enlaces</a>     
-				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/site/gestionevapastor/sites" target="_parent">Sites</a></li>
-					<li><a href="https://sites.google.com/site/gestionevapastor/urls" target="_parent">Urls</a></li>
-				</ul>
-			</li> 
 			
 		
 			
@@ -353,13 +314,13 @@
 		{
 			document.getElementById("contactos").style.backgroundColor = "#2586D7";
 		}
-		if (parametros.indexOf("miembros")!=-1)
+		if (parametros.indexOf("enlaces")!=-1)
 		{
-			document.getElementById("miembros").style.backgroundColor = "#2586d7";
+			document.getElementById("enlaces").style.backgroundColor = "#2586d7";
 		}
-		if (parametros.indexOf("gestion")!=-1)
+		if (parametros.indexOf("datos")!=-1)
 		{
-			document.getElementById("gestion").style.backgroundColor = "#2586d7";
+			document.getElementById("datos").style.backgroundColor = "#2586d7";
 		}
 		if (parametros.indexOf("paises")!=-1)
 		{
