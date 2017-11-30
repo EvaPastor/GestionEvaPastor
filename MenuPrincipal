@@ -293,7 +293,7 @@
 				</ul>
 			</li>    
 			
-			<li class="top"><a id="paises" class="down" href="https://sites.google.com/site/gestionevapastor/infopaises" target="_parent">Calendario</a>
+			<li class="top"><a id="calendario" class="down" href="https://sites.google.com/site/gestionevapastor/infopaises" target="_parent">Calendario</a>
 			</li> 
 			
 			
@@ -321,9 +321,9 @@
 		{
 			document.getElementById("datos").style.backgroundColor = "#2586d7";
 		}
-		if (parametros.indexOf("paises")!=-1)
+		if (parametros.indexOf("calendario")!=-1)
 		{
-			document.getElementById("paises").style.backgroundColor = "#2586d7";
+			document.getElementById("calendario").style.backgroundColor = "#2586d7";
 		}
 		if (parametros.indexOf("pruebas")!=-1)
 		{
