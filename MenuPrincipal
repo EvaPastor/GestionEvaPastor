@@ -53,7 +53,7 @@
 		position:relative; 
 		font-size:12px; 
 		height:38px; 
-		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/fondoMenu.png) no-repeat;
+		background:url(https://raw.githubusercontent.com/EvaPastor/GestionEvaPastor/img/fondoMenu.png) no-repeat;
 	}
 	#dropline, 
 	#dropline ul {
@@ -95,7 +95,7 @@
 	}
 	#dropline li a.down { 
 		color:#fff; 
-		background:url(https://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/down.gif) no-repeat right center;
+		background:url(https://raw.githubusercontent.com/EvaPastor/GestionEvaPastor/img/down.gif) no-repeat right center;
 	}
 	#dropline li ul li a.down {
 		font-size:14px; 
@@ -106,7 +106,7 @@
 		top:38px; 
 		left:-9999px; 
 		z-index:10; 
-		background:urlhttps://raw.githubusercontent.com/EvaPastor/global-transaction-banking/img/fade.png);
+		background:urlhttps://raw.githubusercontent.com/EvaPastor/GestionEvaPastor/img/fade.png);
 	}
 	#dropline li ul.floatRight li {
 		float:right;
@@ -142,7 +142,7 @@
 		text-transform: capitalize;		
 	}		
 </style>
-<script src="https://rawgit.com/EvaPastor/global-transaction-banking/master/js/jquery-3.js" type="text/javascript"></script>
+<script src="https://rawgit.com/EvaPastor/GestionEvaPastor/master/js/jquery-3.js" type="text/javascript"></script>
 <script type="text/javascript">
 	$(document).ready(function()
 	{
@@ -277,68 +277,63 @@
 	<div id="menu">
 		<ul id="dropline">
 			<li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/portal-gcs/home/" target="_parent" onclick="mark"></a></li>
-			<li class="top"><a id="introduccion" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/introduccion" target="_parent">Contactos</a>
-			<ul style="left:-99999px; display: none;" class="sub">
-					
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/documentacion" target="_parent">Documentación</a></li>
-					
-			</ul>
+			<li class="top"><a id="contactos" class="down" href="https://sites.google.com/site/gestionevapastor/contactos" target="_parent">Contactos</a>
 			</li>
 			
-			 <li class="top"><a id="miembros" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/miembros" target="_parent">Miembros</a>
+			 <li class="top"><a id="miembros" class="down" href="https://sites.google.com/site/gestionevapastor/miembros" target="_parent">Miembros</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_eurasia" target="_parent">Contactos Eurasia</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/contactos_latam" target="_parent">Contactos Latam</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/contactos_eurasia" target="_parent">Contactos Eurasia</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/contactos_latam" target="_parent">Contactos Latam</a></li>
 				</ul>
 			</li>     
 			
-			<li class="top"><a id="gestion" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/gestion" target="_parent">Gestión</a>
+			<li class="top"><a id="gestion" class="down" href="https://sites.google.com/site/gestionevapastor/gestion" target="_parent">Gestión</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/planificacion" target="_parent">Planificación General</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimiento" target="_parent">Seguimiento Negocio</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimientointerno" target="_parent">Seguimiento Interno</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimientoagile" target="_parent">Seguimiento Agile</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/seguimientoans" target="_parent">Seguimiento ANS</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incurridos" target="_parent">Incurridos/Vacaciones</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/planificacion" target="_parent">Planificación General</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/seguimiento" target="_parent">Seguimiento Negocio</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/seguimientointerno" target="_parent">Seguimiento Interno</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/seguimientoagile" target="_parent">Seguimiento Agile</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/seguimientoans" target="_parent">Seguimiento ANS</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/incurridos" target="_parent">Incurridos/Vacaciones</a></li>
 				</ul>
 			</li>    
 			
-			<li class="top"><a id="paises" class="down" href="https://sites.google.com/a/bbva.com/global-transaction-banking/infopaises" target="_parent">Info Países</a>
+			<li class="top"><a id="paises" class="down" href="https://sites.google.com/site/gestionevapastor/infopaises" target="_parent">Info Países</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/catalogo" target="_parent">Catálogo servicios</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/horarios" target="_parent">Horarios de envío</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/entornos" target="_parent">Entornos locales</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/layout" target="_parent">Layout</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/nomenclaturas" target="_parent">Nomenclaturas Ficheros</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/comunicaciones" target="_parent">Datos comunicaciones</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/catalogo" target="_parent">Catálogo servicios</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/horarios" target="_parent">Horarios de envío</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/entornos" target="_parent">Entornos locales</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/layout" target="_parent">Layout</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/nomenclaturas" target="_parent">Nomenclaturas Ficheros</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/comunicaciones" target="_parent">Datos comunicaciones</a></li>
 					
 				</ul>
 			</li> 
 			
-			<li class="top"><a id="pruebas" href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebas" target="_parent">Pruebas</a>
+			<li class="top"><a id="pruebas" href="https://sites.google.com/site/gestionevapastor/pruebas" target="_parent">Pruebas</a>
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasco" target="_parent">Colombia</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebascl" target="_parent">Chile</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebaspe" target="_parent">Perú</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasmx" target="_parent">México</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasar" target="_parent">Argentina</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebasve" target="_parent">Venezuela</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebases" target="_parent">España</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/pruebaspt" target="_parent">Portugal</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasco" target="_parent">Colombia</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebascl" target="_parent">Chile</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebaspe" target="_parent">Perú</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasmx" target="_parent">México</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasar" target="_parent">Argentina</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebasve" target="_parent">Venezuela</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebases" target="_parent">España</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/pruebaspt" target="_parent">Portugal</a></li>
 				</ul>
 			</li>    
 			
-			<li class="top"><a id="incidencias" href="https://sites.google.com/a/bbva.com/global-transaction-banking/incidencias" target="_parent">Incidencias</a>     
+			<li class="top"><a id="incidencias" href="https://sites.google.com/site/gestionevapastor/incidencias" target="_parent">Incidencias</a>     
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incintegrado" target="_parent">Integrado</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/incproduccion" target="_parent">Producción</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/incintegrado" target="_parent">Integrado</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/incproduccion" target="_parent">Producción</a></li>
 				</ul>
 			</li> 	
 			
-			<li class="top"><a id="enlaces" href="https://sites.google.com/a/bbva.com/global-transaction-banking/enlaces" target="_parent">Enlaces</a>     
+			<li class="top"><a id="enlaces" href="https://sites.google.com/site/gestionevapastor/enlaces" target="_parent">Enlaces</a>     
 				<ul style="left: -99999px; display: none;" class="sub">
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/sites" target="_parent">Sites</a></li>
-					<li><a href="https://sites.google.com/a/bbva.com/global-transaction-banking/urls" target="_parent">Urls</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/sites" target="_parent">Sites</a></li>
+					<li><a href="https://sites.google.com/site/gestionevapastor/urls" target="_parent">Urls</a></li>
 				</ul>
 			</li> 
 			
@@ -348,15 +343,15 @@
 	</div>
 	<!-- breadcrumbs-->
 	<div id="title-crumbs">breadcrumbs</div>
-	<!-- Elemento de men򠳥t visited -->
+	<!-- Elemento de men??t visited -->
 	<script type="text/javascript">
 	gadgets.util.registerOnLoadHandler(datospagina);
 	function datospagina()
 	{
 		var parametros = gadgets.util.getUrlParameters()["parent"];	
-		if (parametros.indexOf("introduccion")!=-1)
+		if (parametros.indexOf("contactos")!=-1)
 		{
-			document.getElementById("introduccion").style.backgroundColor = "#2586D7";
+			document.getElementById("contactos").style.backgroundColor = "#2586D7";
 		}
 		if (parametros.indexOf("miembros")!=-1)
 		{
